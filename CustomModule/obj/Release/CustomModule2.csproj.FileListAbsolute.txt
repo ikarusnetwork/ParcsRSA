@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\CustomModule.exe.config
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\CustomModule.exe
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\CustomModule.pdb
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.dll
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.Module.CommandLine.dll
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\CommandLine.dll
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.Module.CommandLine.pdb
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.Module.CommandLine.dll.config
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.pdb
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\Parcs.dll.config
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\bin\Release\CommandLine.xml
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\obj\Release\CustomModule2.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\obj\Release\CustomModule2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\obj\Release\CustomModule2.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\obj\Release\CustomModule.exe
+C:\Users\User\Downloads\Telegram Desktop\Dodik\CustomModule\obj\Release\CustomModule.pdb
